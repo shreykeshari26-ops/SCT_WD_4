@@ -30,3 +30,11 @@ Nexus is a beautiful, biomorphic desktop-style productivity dashboard built with
 - Vanilla JavaScript (DOM manipulation, localStorage)
 - FontAwesome (for Icons)
 - Google Fonts (Inter)
+
+  |<img width="1792" height="984" alt="Screenshot 2026-07-03 at 5 16 19 PM" src="https://github.com/user-attachments/assets/28feb2b5-d9b3-4726-a9e4-4c6360dda2d9" />
+
+  |<img width="1792" height="995" alt="Screenshot 2026-07-03 at 5 17 49 PM" src="https://github.com/user-attachments/assets/67fef2a5-b41a-400f-8c91-8ccb46942f0a" />
+
+  |<img width="1792" height="995" alt="Screenshot 2026-07-03 at 5 17 56 PM" src="https://github.com/user-attachments/assets/28448ccf-5b2a-40b5-9a85-d76ff5a3134c" />
+
+  |
